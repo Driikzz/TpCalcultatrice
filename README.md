@@ -4,8 +4,6 @@ Projet de Salles Rémi
 ![image](https://github.com/Driikzz/TpCalcultatrice/assets/29045021/c96a0f1c-ec47-47f6-a68f-7539c6352388)
 
 
-Voici un exemple de README pour votre projet de calculatrice simple :
-
 Calculatrice Simple
 Une application Android de calculatrice simple avec prise en charge des opérations de base et évaluation des expressions mathématiques.
 
