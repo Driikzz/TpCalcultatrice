@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape
+        android:shape="rectangle">
+        <solid android:color="#C52929" /> <!-- Couleur d'arrière-plan gris clair -->
+        <corners android:radius="50dp" /> <!-- Rayon de 50dp pour rendre le coin rond -->
+    </shape>
+</selector>
